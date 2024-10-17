@@ -35,7 +35,7 @@ const createdata = createBrowserRouter(
   ],
   {
     // Add the basename property here
-    basename: '/'
+    basename: '/Trip-vlog'
   }
 );
 
